@@ -1,0 +1,9 @@
+div{
+    color: white;
+    font-size: 7em;
+}
+
+.btns {
+    display: flex;
+    justify-content: center;
+}
